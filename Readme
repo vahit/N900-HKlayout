@@ -1,5 +1,10 @@
+NOKIA N900 Hardware Keyboard Layout for Programmers.
+version 1.0
+FeedBcack: Vahid.Maani@gmail.com
+
+
 WARNING! 
-	 1. This article assumes you have read the main article on http://wiki.maemo.org/Remapping_keyboard
+	 1. Please read the main article on http://wiki.maemo.org/Remapping_keyboard
 	 2. Back up from your original rx-51 file and store in any place beside of nokia_vndr.
 
 Features include: 
